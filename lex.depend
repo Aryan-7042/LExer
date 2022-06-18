@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1655558936 source:d:\do not delete\prg\c\lex\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"customstring.h"
+	"common.h"
+
+1654695234 source:d:\do not delete\prg\c\lex\customstring.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	"customstring.h"
+	"common.h"
+
+1654526056 d:\do not delete\prg\c\lex\customstring.h
+
+1654527327 d:\do not delete\prg\c\lex\common.h
+
